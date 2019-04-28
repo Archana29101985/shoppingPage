@@ -27,7 +27,7 @@
 	}
 #bgcolor{
 	height: 100vh;
-	background-image: linear-gradient(to left top, #92b924, #b99400, #d06a10, #d43b3a, #c1055f, #ad217f, #8d3999, #5f4aa9, #3f61b7, #1873bd, #0083bd, #2191b9);
+	background-image: linear-gradient(to left top, #92b924, #b99400, #d06a10);
 			}
 .container{
 	border: 1px solid;
