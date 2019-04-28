@@ -27,7 +27,7 @@
 	}
 #bgcolor{
 	height: 100vh;
-	background-image: linear-gradient(to left top, #92b924, #b99400, #d06a10);
+	background-image: linear-gradient(to right top, #92b924, #b99400 );
 			}
 .container{
 	border: 1px solid;
