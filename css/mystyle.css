@@ -26,17 +26,9 @@
 	bottom: -1px;
 	}
 #bgcolor{
-	/*height: 100vh;
-	background-image: linear-gradient(to right top, #675657, #433564,#328199);*/
-	position: absolute;
-	top:10%;
-	left: 5px;
-	right: 5px;
-	bottom: 5px;
-	background:#5deff4;
-	border-bottom-right-radius: 150px;
-	border-bottom-left-radius: 150px;
-	}
+	height: 95vh;
+	background-image: linear-gradient(to left top, #92b924, #b99400, #d06a10, #d43b3a, #c1055f, #ad217f, #8d3999, #5f4aa9, #3f61b7, #1873bd, #0083bd, #2191b9);
+			}
 .container{
 	border: 1px solid;
 	height: 590px;
